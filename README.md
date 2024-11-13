@@ -203,7 +203,29 @@ We welcome contributions to this repository! If you would like to add resources,
 
 ## Community Support
 
-Feel free to connect with our community for additional support, feedback, or questions. You can reach out through our GDG On Campus channels or leave feedback through issues on GitHub.
+Feel free to connect with our community for additional support, feedback, or questions. You can reach out through our GDG On Campus channels or leave feedback through issues on GitHub or Contact the Lead on whatsapp by clicking [HERE](https://wa.link/grt2un)
+
+---
+
+# Connect with Us
+
+We'd love to stay connected with you! Follow us on our social channels:
+
+### 🐦 **Twitter**
+[Follow us on Twitter](https://twitter.com/GDGMoiUni)  
+![Twitter](https://img.shields.io/badge/Twitter-follow-blue?logo=twitter&logoColor=white)
+
+### 📘 **Linkedin**
+[Like us on Linkedin](https://ke.linkedin.com/company/gdgmoiuni)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&logoColor=white)
+
+### 🌐 **Website**
+[Visit our Website](https://gdg.community.dev/gdg-on-campus-moi-university-eldoret-kenya/)  
+![Website](https://img.shields.io/badge/Website-visit-blue?logo=google-chrome&logoColor=white)
+
+### 💬 **WhatsApp**
+[Join our WhatsApp Community](https://chat.whatsapp.com/DEbFarWWiVXDbQOEiAuT8n)  
+![WhatsApp](https://img.shields.io/badge/WhatsApp-join-green?logo=whatsapp&logoColor=white)
 
 ---
 
