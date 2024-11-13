@@ -1,6 +1,3 @@
-The corrected version of your **Technical Courses Resource Pool** document is provided below with proper formatting and no errors:
-
-```markdown
 # Technical-Courses-Resource-Pool 📚
 
 Welcome to the **Technical Courses Resource Pool**! This repository is maintained by the **Google Developer Group On Campus - Moi University** and is a collection of curated resources to guide you through various fields in technology. Whether you're a total beginner or looking to specialize, we provide organized paths, each focusing on essential concepts, tools, and languages in each domain.
@@ -302,6 +299,7 @@ We'd love to stay connected with you! Follow us on our social channels:
 
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-join-green?logo=whatsapp&logoColor=white)
-```
 
 Happy learning, and let’s build a stronger tech community together! 🚀
+```
+
