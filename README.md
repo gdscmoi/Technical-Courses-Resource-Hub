@@ -1,3 +1,6 @@
+The corrected version of your **Technical Courses Resource Pool** document is provided below with proper formatting and no errors:
+
+```markdown
 # Technical-Courses-Resource-Pool 📚
 
 Welcome to the **Technical Courses Resource Pool**! This repository is maintained by the **Google Developer Group On Campus - Moi University** and is a collection of curated resources to guide you through various fields in technology. Whether you're a total beginner or looking to specialize, we provide organized paths, each focusing on essential concepts, tools, and languages in each domain.
@@ -15,6 +18,10 @@ Welcome to the **Technical Courses Resource Pool**! This repository is maintaine
     - [Cloud Computing](#cloud-computing)
     - [Blockchain Development](#blockchain-development)
     - [Game Development](#game-development)
+    - [Low-Level Programming](#low-level-programming)
+    - [Internet of Things (IoT)](#internet-of-things-iot)
+    - [Embedded Systems Programming](#embedded-systems-programming)
+    - [Robotics](#robotics)
 3. [Contribution Guidelines](#contribution-guidelines)
 4. [Community Support](#community-support)
 
@@ -189,9 +196,9 @@ Game-Development
     ├── Unreal-Engine
     └── Unity
 ```
-Here is the new section added as number 8, focusing on **Low-Level Programming**:
 
-```markdown
+---
+
 ### 8. Low-Level Programming
 
 Low-level programming involves working with languages that are closer to machine code, offering fine control over computer hardware. It is essential for beginners as a strong foundation for understanding how computers work.
@@ -205,10 +212,8 @@ Low-Level-Programming
 └── C-Programming
 ```
 
-C is often considered the foundation of low-level programming and serves as the building block for understanding memory management, pointers, and other core concepts in computer science.
-```
+---
 
-```markdown
 ### 9. Internet of Things (IoT)
 
 The Internet of Things (IoT) involves connecting physical devices to the internet to collect, exchange, and process data.
@@ -223,6 +228,8 @@ IoT
     ├── MQTT
     └── HTTP
 ```
+
+---
 
 ### 10. Embedded Systems Programming
 
@@ -239,6 +246,8 @@ Embedded-Systems-Programming
     └── FreeRTOS
 ```
 
+---
+
 ### 11. Robotics
 
 Robotics involves designing, building, and programming robots to perform tasks autonomously or semi-autonomously.
@@ -254,15 +263,6 @@ Robotics
     ├── ROS (Robot Operating System)
     └── C++
 ```
-
-```
-
-### Explanation:
-- **IoT (Internet of Things)**: Focuses on devices that are connected to the internet, sharing data between sensors and systems. We introduce IoT device platforms like **Raspberry Pi** and **Arduino**, and protocols like **MQTT** and **HTTP**.
-  
-- **Embedded Systems Programming**: Emphasizes programming small, dedicated systems using low-level programming languages, with a special focus on **C programming** and microcontroller platforms like **Arduino** and **ESP32**. We also introduce **Real-Time Operating Systems** (RTOS) like **FreeRTOS**.
-  
-- **Robotics**: Covers the design and programming of robots, including mechanical and electrical design, as well as programming languages and frameworks like **Python**, **C++**, and **ROS** (Robot Operating System). 
 
 ---
 
@@ -299,8 +299,9 @@ We'd love to stay connected with you! Follow us on our social channels:
 
 ### 💬 **WhatsApp**
 [Join our WhatsApp Community](https://chat.whatsapp.com/DEbFarWWiVXDbQOEiAuT8n)  
-![WhatsApp](https://img.shields.io/badge/WhatsApp-join-green?logo=whatsapp&logoColor=white)
 
----
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-join-green?logo=whatsapp&logoColor=white)
+```
 
 Happy learning, and let’s build a stronger tech community together! 🚀
