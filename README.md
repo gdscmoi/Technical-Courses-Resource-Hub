@@ -28,24 +28,13 @@ This repository is organized into different technology fields. Each field has it
 
 ## Fields in Technology
 
-Below is a list of popular fields in technology. For each field, you’ll find a high-level overview of what it involves and a directory of paths and technologies to explore.
+Below is a list of popular fields in technology. For each field, you’ll find a high-level overview, path structure, and core technologies.
 
 ---
 
 ### 1. Web Development
 
-Web development is the work involved in creating websites and web applications. It includes designing and building the visual aspects (front-end) and the underlying functionality (back-end).
-
-#### Paths:
-- **[Front-End Development](./Web-Development/Front-End-Development)**
-    - *Focuses on creating the user interface and experience.*
-    - **Technologies:** HTML, CSS, JavaScript, React, Angular, Vue.js
-- **[Back-End Development](./Web-Development/Back-End-Development)**
-    - *Manages server-side logic, databases, and application programming interfaces (APIs).*
-    - **Technologies:** Node.js, Express, Django, Ruby on Rails, Java Spring
-- **[Full-Stack Development](./Web-Development/Full-Stack-Development)**
-    - *Involves both front-end and back-end development skills to build complete applications.*
-    - **Technologies:** MERN Stack, LAMP Stack, MEAN Stack
+Web development involves designing and building websites and web applications, covering both visual (front-end) and functionality aspects (back-end).
 
 #### Path Structure:
 ```
@@ -55,78 +44,115 @@ Web-Development
 │   ├── CSS
 │   ├── JavaScript
 │   └── Frameworks
+│       ├── React
+│       ├── Angular
+│       └── Vue.js
 ├── Back-End-Development
 │   ├── Node.js
+│   ├── Express
 │   ├── Django
+│   ├── Ruby-on-Rails
 │   └── Databases
+│       ├── SQL
+│       └── NoSQL
 └── Full-Stack-Development
-    └── MERN-Stack
+    ├── MERN-Stack
+    ├── MEAN-Stack
+    └── LAMP-Stack
 ```
 
 ---
 
 ### 2. Mobile Development
 
-Mobile development involves building applications for mobile devices, such as Android and iOS.
+Mobile development is focused on building applications for mobile devices, including Android, iOS, and cross-platform development.
 
-#### Paths:
-- **[Android Development](./Mobile-Development/Android-Development)**
-    - *Developing applications for Android devices using Java or Kotlin.*
-    - **Technologies:** Java, Kotlin, Android Studio
-- **[iOS Development](./Mobile-Development/iOS-Development)**
-    - *Developing applications for Apple’s iOS devices using Swift.*
-    - **Technologies:** Swift, Xcode, SwiftUI
-- **[Cross-Platform Development](./Mobile-Development/Cross-Platform-Development)**
-    - *Building apps that work on multiple platforms with a single codebase.*
-    - **Technologies:** Flutter, React Native, Xamarin
+#### Path Structure:
+```
+Mobile-Development
+├── Android-Development
+│   ├── Java
+│   ├── Kotlin
+│   └── Android-Studio
+├── iOS-Development
+│   ├── Swift
+│   ├── Xcode
+│   └── SwiftUI
+└── Cross-Platform-Development
+    ├── Flutter
+    ├── React-Native
+    └── Xamarin
+```
 
 ---
 
 ### 3. Data Science & Machine Learning
 
-Data science focuses on extracting knowledge from data, while machine learning (ML) is a subset that allows systems to learn from data and improve over time.
+Data science is about extracting knowledge from data, while machine learning uses algorithms to make data-driven predictions.
 
-#### Paths:
-- **[Data Analysis](./Data-Science/Data-Analysis)**
-    - *Analyzing and interpreting complex datasets.*
-    - **Technologies:** Python, Pandas, NumPy, SQL
-- **[Machine Learning](./Data-Science/Machine-Learning)**
-    - *Creating algorithms that learn from data and make predictions.*
-    - **Technologies:** TensorFlow, Scikit-Learn, Keras
-- **[Deep Learning](./Data-Science/Deep-Learning)**
-    - *An advanced area of ML that uses neural networks to model complex patterns.*
-    - **Technologies:** PyTorch, TensorFlow, Keras
+#### Path Structure:
+```
+Data-Science
+├── Data-Analysis
+│   ├── Python
+│   ├── Pandas
+│   ├── NumPy
+│   └── SQL
+├── Machine-Learning
+│   ├── Supervised-Learning
+│   ├── Unsupervised-Learning
+│   └── Reinforcement-Learning
+│       ├── TensorFlow
+│       ├── Scikit-Learn
+│       └── Keras
+└── Deep-Learning
+    ├── Neural-Networks
+    ├── Convolutional-Neural-Networks (CNN)
+    └── Recurrent-Neural-Networks (RNN)
+```
 
 ---
 
 ### 4. Cybersecurity
 
-Cybersecurity is the practice of protecting systems, networks, and data from cyber threats and unauthorized access.
+Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
 
-#### Paths:
-- **[Network Security](./Cybersecurity/Network-Security)**
-    - *Protecting computer networks and data transmission.*
-    - **Technologies:** Firewalls, VPNs, Intrusion Detection Systems
-- **[Application Security](./Cybersecurity/Application-Security)**
-    - *Securing applications by finding, fixing, and preventing vulnerabilities.*
-    - **Technologies:** OWASP, Static Analysis Tools
-- **[Ethical Hacking](./Cybersecurity/Ethical-Hacking)**
-    - *Identifying vulnerabilities in systems by simulating attacks.*
-    - **Technologies:** Kali Linux, Metasploit, Burp Suite
+#### Path Structure:
+```
+Cybersecurity
+├── Network-Security
+│   ├── Firewalls
+│   ├── VPNs
+│   └── Intrusion-Detection-Systems
+├── Application-Security
+│   ├── OWASP
+│   ├── Static-Analysis-Tools
+│   └── Dynamic-Analysis-Tools
+└── Ethical-Hacking
+    ├── Kali-Linux
+    ├── Metasploit
+    └── Burp-Suite
+```
 
 ---
 
 ### 5. Cloud Computing
 
-Cloud computing allows users to store and access data and programs over the internet instead of a local computer.
+Cloud computing allows users to store and access data and programs over the internet.
 
-#### Paths:
-- **[Cloud Fundamentals](./Cloud-Computing/Cloud-Fundamentals)**
-    - *Introduction to basic cloud concepts and models.*
-    - **Technologies:** AWS, Google Cloud Platform, Azure
-- **[DevOps](./Cloud-Computing/DevOps)**
-    - *Practices that combine software development and IT operations.*
-    - **Technologies:** Docker, Kubernetes, Jenkins
+#### Path Structure:
+```
+Cloud-Computing
+├── Cloud-Fundamentals
+│   ├── AWS
+│   ├── Google-Cloud-Platform
+│   └── Microsoft-Azure
+└── DevOps
+    ├── Docker
+    ├── Kubernetes
+    ├── Jenkins
+    └── CI-CD
+```
 
 ---
 
@@ -134,26 +160,35 @@ Cloud computing allows users to store and access data and programs over the inte
 
 Blockchain is a decentralized technology that enables secure, transparent, and tamper-proof transactions.
 
-#### Paths:
-- **[Blockchain Basics](./Blockchain/Blockchain-Basics)**
-    - *Introduction to how blockchain works and its applications.*
-- **[Smart Contract Development](./Blockchain/Smart-Contract-Development)**
-    - *Creating programs that run on the blockchain.*
-    - **Technologies:** Solidity, Ethereum, Hyperledger
+#### Path Structure:
+```
+Blockchain
+├── Blockchain-Basics
+│   ├── Distributed-Ledger
+│   └── Cryptography
+└── Smart-Contract-Development
+    ├── Solidity
+    ├── Ethereum
+    └── Hyperledger
+```
 
 ---
 
 ### 7. Game Development
 
-Game development involves creating interactive games for various platforms.
+Game development involves creating interactive games, whether simple 2D games or complex 3D games.
 
-#### Paths:
-- **[2D Game Development](./Game-Development/2D-Game-Development)**
-    - *Designing and developing simple, flat games.*
-    - **Technologies:** Unity, Godot, GameMaker
-- **[3D Game Development](./Game-Development/3D-Game-Development)**
-    - *Developing games with 3D environments and characters.*
-    - **Technologies:** Unreal Engine, Unity
+#### Path Structure:
+```
+Game-Development
+├── 2D-Game-Development
+│   ├── Unity
+│   ├── Godot
+│   └── GameMaker
+└── 3D-Game-Development
+    ├── Unreal-Engine
+    └── Unity
+```
 
 ---
 
@@ -170,4 +205,6 @@ We welcome contributions to this repository! If you would like to add resources,
 
 Feel free to connect with our community for additional support, feedback, or questions. You can reach out through our GDG On Campus channels or leave feedback through issues on GitHub.
 
-Happy learning, and let's build a stronger tech community together! 🚀
+---
+
+Happy learning, and let’s build a stronger tech community together! 🚀
