@@ -189,6 +189,80 @@ Game-Development
     ├── Unreal-Engine
     └── Unity
 ```
+Here is the new section added as number 8, focusing on **Low-Level Programming**:
+
+```markdown
+### 8. Low-Level Programming
+
+Low-level programming involves working with languages that are closer to machine code, offering fine control over computer hardware. It is essential for beginners as a strong foundation for understanding how computers work.
+
+#### Why Start with Low-Level Programming:
+Starting with low-level programming languages helps beginners gain a better understanding of how computers execute programs, manage memory, and interface with hardware. It's a great way to build a solid foundation in programming.
+
+#### Path Structure:
+```
+Low-Level-Programming
+└── C-Programming
+```
+
+C is often considered the foundation of low-level programming and serves as the building block for understanding memory management, pointers, and other core concepts in computer science.
+```
+
+```markdown
+### 9. Internet of Things (IoT)
+
+The Internet of Things (IoT) involves connecting physical devices to the internet to collect, exchange, and process data.
+
+#### Path Structure:
+```
+IoT
+└── IoT-Devices
+    ├── Raspberry-Pi
+    └── Arduino
+└── IoT-Protocols
+    ├── MQTT
+    └── HTTP
+```
+
+### 10. Embedded Systems Programming
+
+Embedded systems are specialized computing systems designed to perform dedicated tasks within larger systems, often with real-time constraints.
+
+#### Path Structure:
+```
+Embedded-Systems-Programming
+└── C-Programming
+└── Microcontrollers
+    ├── Arduino
+    └── ESP32
+└── Real-Time-Operating-Systems
+    └── FreeRTOS
+```
+
+### 11. Robotics
+
+Robotics involves designing, building, and programming robots to perform tasks autonomously or semi-autonomously.
+
+#### Path Structure:
+```
+Robotics
+└── Robot-Design
+    ├── Mechanical-Design
+    └── Electrical-Design
+└── Programming-Robots
+    ├── Python
+    ├── ROS (Robot Operating System)
+    └── C++
+```
+
+```
+
+### Explanation:
+- **IoT (Internet of Things)**: Focuses on devices that are connected to the internet, sharing data between sensors and systems. We introduce IoT device platforms like **Raspberry Pi** and **Arduino**, and protocols like **MQTT** and **HTTP**.
+  
+- **Embedded Systems Programming**: Emphasizes programming small, dedicated systems using low-level programming languages, with a special focus on **C programming** and microcontroller platforms like **Arduino** and **ESP32**. We also introduce **Real-Time Operating Systems** (RTOS) like **FreeRTOS**.
+  
+- **Robotics**: Covers the design and programming of robots, including mechanical and electrical design, as well as programming languages and frameworks like **Python**, **C++**, and **ROS** (Robot Operating System). 
 
 ---
 
